@@ -50,5 +50,4 @@ class App extends Component {
     return `${num < 10 ? "0" : ""}${num}`;
   }
 }
-
 export default App;
